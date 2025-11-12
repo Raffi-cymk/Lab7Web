@@ -1,14 +1,4 @@
 # Lab7Web
-
-# Praktikum 7 — PHP Dasar
-
-**Mata Kuliah:** Pemrograman Web  
-**Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom.  
-**Nama Mahasiswa:** _[Isi Nama]_  
-**NIM:** _[Isi NIM]_  
-
----
-
 ## Tujuan Praktikum
 1. Memahami konsep dasar **Server-Side Scripting**.  
 2. Mempelajari dasar pemrograman **PHP**.  
@@ -59,18 +49,38 @@ Semua file latihan yang dijalankan pada praktikum ini telah diunggah ke reposito
 > **Penting:** Screenshot #1 adalah **halaman index (tampilan awal web)** yang menunjukkan daftar 10 file latihan. Jadi keseluruhan ada 11 screenshot: satu index + 10 screenshot hasil jalannya masing-masing file / tampilan penting.
 
 1. **Screenshot 1** — Halaman index (`index`): tampilan awal di browser yang menampilkan daftar 10 file latihan (sebagai navigasi).  
-2. **Screenshot 2** — `php_dasar.php` — tampilan "Hello World".  
-3. **Screenshot 3** — `latihan1.php` — output NIM & Nama.  
-4. **Screenshot 4** — `latihan2.php` — form input dan hasil ketika data dikirim.  
-5. **Screenshot 5** — `operator.php` — hasil perhitungan gaji & pajak.  
-6. **Screenshot 6** — `kondisi_if.php` — output struktur IF (nama hari).  
-7. **Screenshot 7** — `switch.php` — output struktur SWITCH (nama hari).  
-8. **Screenshot 8** — `for.php` — hasil perulangan naik dan turun.  
-9. **Screenshot 9** — `while.php` — hasil perulangan WHILE.  
-10. **Screenshot 10** — `dowhile.php` — hasil perulangan DO-WHILE.  
-11. **Screenshot 11** — `form_gaji.php` — tampilan form tugas akhir dan/atau hasil perhitungan umur & gaji.
+<img width="808" height="544" alt="Screenshot 2025-11-12 125718" src="https://github.com/user-attachments/assets/c88978ef-1edb-419e-b2b3-1d90932ebf07" />
 
-> Semua screenshot telah disiapkan dan di-zip (11 file). Silakan upload ZIP tersebut ke repository jika perlu atau lampirkan sesuai instruksi pengumpulan.
+2. **Screenshot 2** — `php_dasar.php` — tampilan "Hello World".  
+<img width="489" height="252" alt="Screenshot 2025-11-12 102645" src="https://github.com/user-attachments/assets/e26ba739-98df-48c2-9af0-d0964f3eccd1" />
+
+3. **Screenshot 3** — `latihan1.php` — output NIM & Nama.  
+<img width="489" height="252" alt="Screenshot 2025-11-12 102645" src="https://github.com/user-attachments/assets/b0b115dd-4ce0-49f3-ad54-3b0032057db0" />
+
+4. **Screenshot 4** — `latihan2.php` — form input dan hasil ketika data dikirim.  
+<img width="498" height="239" alt="Screenshot 2025-11-12 103015" src="https://github.com/user-attachments/assets/7eac836d-f570-413f-9c81-8443d6352827" />
+
+5. **Screenshot 5** — `operator.php` — hasil perhitungan gaji & pajak.  
+<img width="479" height="201" alt="Screenshot 2025-11-12 105536" src="https://github.com/user-attachments/assets/77a0dd61-9331-4565-9103-651bdfec5268" />
+
+6. **Screenshot 6** — `kondisi_if.php` — output struktur IF (nama hari).  
+<img width="455" height="148" alt="Screenshot 2025-11-12 105900" src="https://github.com/user-attachments/assets/b6e30bca-6193-4579-8d8e-1ed92ff772fa" />
+
+7. **Screenshot 7** — `switch.php` — output struktur SWITCH (nama hari).  
+<img width="510" height="148" alt="Screenshot 2025-11-12 122822" src="https://github.com/user-attachments/assets/c387ae6e-6700-4fd6-929d-3f932d8b6431" />
+
+8. **Screenshot 8** — `for.php` — hasil perulangan naik dan turun.  
+<img width="608" height="484" alt="Screenshot 2025-11-12 123144" src="https://github.com/user-attachments/assets/8507c293-2af6-438b-8611-b0c37e947c65" />
+
+9. **Screenshot 9** — `while.php` — hasil perulangan WHILE.  
+<img width="430" height="314" alt="Screenshot 2025-11-12 123722" src="https://github.com/user-attachments/assets/97cf55f1-747f-4d89-bbd1-ab0cde44cc4c" />
+
+10. **Screenshot 10** — `dowhile.php` — hasil perulangan DO-WHILE.  
+<img width="489" height="270" alt="Screenshot 2025-11-12 123954" src="https://github.com/user-attachments/assets/9f105c1c-fc56-46d6-bd65-acb53f7694f1" />
+
+11. **Screenshot 11** — `form_gaji.php` — tampilan form tugas akhir dan/atau hasil perhitungan umur & gaji.
+<img width="492" height="436" alt="Screenshot 2025-11-12 103243" src="https://github.com/user-attachments/assets/5cffa124-b3a0-4f5b-a38f-c3928c7585f3" />
+
 
 ---
 
