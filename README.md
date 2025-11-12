@@ -55,7 +55,7 @@ Semua file latihan yang dijalankan pada praktikum ini telah diunggah ke reposito
 <img width="489" height="252" alt="Screenshot 2025-11-12 102645" src="https://github.com/user-attachments/assets/e26ba739-98df-48c2-9af0-d0964f3eccd1" />
 
 3. **Screenshot 3** — `latihan1.php` — output NIM & Nama.  
-<img width="489" height="252" alt="Screenshot 2025-11-12 102645" src="https://github.com/user-attachments/assets/b0b115dd-4ce0-49f3-ad54-3b0032057db0" />
+<img width="434" height="204" alt="Screenshot 2025-11-12 102841" src="https://github.com/user-attachments/assets/bb120999-cf7e-4f77-9148-ecacae316087" />
 
 4. **Screenshot 4** — `latihan2.php` — form input dan hasil ketika data dikirim.  
 <img width="498" height="239" alt="Screenshot 2025-11-12 103015" src="https://github.com/user-attachments/assets/7eac836d-f570-413f-9c81-8443d6352827" />
